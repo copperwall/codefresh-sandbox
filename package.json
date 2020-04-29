@@ -1,0 +1,13 @@
+{
+  "name": "codefresh-sandbox",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo 'no tests'"
+  },
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
