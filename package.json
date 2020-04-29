@@ -1,6 +1,6 @@
 {
-  "name": "codefresh-sandbox",
-  "version": "1.0.0",
+  "name": "@truepill/codefresh-sandbox",
+  "version": "0.0.0-semantically-versioned",
   "main": "dist/index.js",
   "license": "MIT",
   "scripts": {
