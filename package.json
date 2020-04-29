@@ -1,5 +1,5 @@
 {
-  "name": "@truepill/codefresh-sandbox",
+  "name": "@copperwall/codefresh-sandbox",
   "version": "0.0.0-semantically-versioned",
   "main": "dist/index.js",
   "license": "MIT",
